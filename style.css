@@ -23,8 +23,7 @@ body {
   font-style: italic;
 }
 a {
-  text-decoration: none;
-}
+    text-decoration: none;}
 article {
   border-top: 5px solid #0974b3;
   display: block;
